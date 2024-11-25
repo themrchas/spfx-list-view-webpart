@@ -1,0 +1,50 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+.brandingItemView {
+  
+  .header {
+    background-color: $ms-color-themeDark;
+    padding: 5px;
+  }
+
+  .bottom {
+    position: relative;
+  }
+
+  .title {
+    @include ms-font-xl;
+    @include ms-fontColor-themeTertiary;
+    font-family: 'Copperplate Gothic Bold','Segoe UI Semilight','Segoe UI','Segoe',Tahoma,Helvetica,Arial,sans-serif;
+    width: 100%;
+    text-align: center;
+    margin-top: 3px;
+    margin-bottom: 3px;
+  }
+
+  .headerimg {   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3px;
+  }
+
+  .contentContainer {
+    display: block;
+  }
+
+  .content {
+    padding: 10px;
+  }
+
+  .footer {
+    display: inline-block;
+  }
+
+  .showmore {
+    font-size: larger;
+    font-style: italic;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "cdnBasePath": "https://commandtest.nshq.nato.int/siteassets"
+}

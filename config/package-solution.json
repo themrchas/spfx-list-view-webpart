@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Branding Item View",
+    "id": "cdb81081-baf0-44bb-9de3-85bfe7d9ef4c",
+    "version": "1.0.0.3",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/branding-item-view.sppkg"
+  }
+}

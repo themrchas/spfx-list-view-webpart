@@ -1,0 +1,2 @@
+"https://commandtest.nshq.nato.int/siteassets"
+"http://techsol/siteassets"

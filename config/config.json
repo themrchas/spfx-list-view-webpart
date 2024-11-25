@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "branding-item-view-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/brandingItemView/BrandingItemViewWebPart.js",
+          "manifest": "./src/webparts/brandingItemView/BrandingItemViewWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "BrandingItemViewWebPartStrings": "lib/webparts/brandingItemView/loc/{locale}.js"
+  }
+}

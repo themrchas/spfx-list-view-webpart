@@ -1,0 +1,27 @@
+define([], function () {
+  return {
+    "PropertyPaneDescription": "Branding Item View Properties",
+    "AppearanceGroupName": "Appearance",
+    "TitleLabel": "Title",
+    "TitleColor": "Title Color",
+    "AlignTitle": "Align Title",
+    "ImageUrlLabel": "Image URL",
+    "HeaderHeight": "Header height",
+    "HeaderBackgroundColorLabel": "Header background color",
+    "BorderThicknessLabel": "Border thickness",
+    "BorderColorLabel": "Border color",
+    "HeaderBorderThicknessLabel": "Line under header thickness",
+    "HeaderBorderColorLabel": "Line under header color",
+    "PartHeight": "Minimum height of webpart",
+    "DataGroupName": "Contents",
+    "WebUrlLabel": "Web URL",
+    "ListNameLabel": "List name",
+    "ViewNameLabel": "View name (for filtering and sorting)",
+    "FieldNameLabel": "Text field name",
+    "AlignContent": "Align Content",
+    "SeparatorLabel": "Separate elements using",
+    "SeparatorTextLabel": "Separate with",
+    "ShowMoreTextLabel": "Show More Text",
+    "ShowMoreUrlLabel": "Show More URL",
+  }
+});
