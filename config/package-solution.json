@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "list-view-webpart-sp-2019-client-side-solution",
+    "id": "012fa202-42dd-49e6-aa22-b3baaefbc58a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/list-view-webpart-sp-2019.sppkg"
+  }
+}

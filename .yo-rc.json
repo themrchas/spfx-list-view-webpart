@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.12.1",
+    "libraryName": "list-view-webpart-sp-2019",
+    "libraryId": "012fa202-42dd-49e6-aa22-b3baaefbc58a",
+    "environment": "onprem19",
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "componentType": "webpart"
+  }
+}
