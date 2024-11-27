@@ -1,5 +1,7 @@
 # list-view-webpart-sp-2019
 
+This is a fresh OOTB compilation of a SPFx 2019 webpart. No changes have been made in terms of coding.
+
 ## Summary
 
 Short summary on functionality and used technologies.
